@@ -35,6 +35,6 @@
 
 &nbsp;<img align="center" width="305" src="https://github-readme-stats.vercel.app/api?username=raupovn&show_icons=true&locale=en" alt="raupovn" />
 
-###### I started devoloping !
+###### I started devoloping !!!
 
 
