@@ -37,6 +37,6 @@
 
 ###### I started devoloping !!!
 
-### https://site-8915923-1977-8241.mystrikingly.com/ that's my site for testing.
+### https://site-8915923-1977-8241.mystrikingly.com/ that's my site for testing...
 
 
